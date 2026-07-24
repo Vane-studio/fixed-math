@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
 
-A deterministic fixed-point mathematics library for Rust built around reusable continued fraction evaluation.
+
 > Deterministic fixed-point mathematics for Rust based on configurable continued fraction evaluation.
 
 `fixed-math` is a numerical computation library for Rust that provides configurable fixed-point arithmetic together with a reusable continued fraction evaluation framework.
